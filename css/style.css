@@ -33,7 +33,20 @@ section id about ul li {
   font-size: 20px;
   font-weight: 5%;
 }
-section id about p {
-    font-size: 20px;
-    font-weight: 5%;
+
+main {
+    background-color: black;
+    height: 400px;
+    width: 1024;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+    color: aliceblue;
+}
+main ul li {
+    text-align: left;
+}
+main p {
+    text-align: center;
 }
