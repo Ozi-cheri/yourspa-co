@@ -50,3 +50,13 @@ main ul li {
 main p {
     text-align: center;
 }
+.form-section {
+    background-color: aqua;
+    height: 400px;
+    width: 1024;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+    color: black;  
+}
